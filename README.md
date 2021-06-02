@@ -8,9 +8,9 @@
 
  - pip3 install flask
 
- - pip3 install flask flask-sqlalchemy
+ - pip install flask flask-sqlalchemy
 
 
 ## run our app:
 
-  python3 app.py
+  python app.py
