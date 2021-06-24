@@ -1,17 +1,3 @@
-### Installations
-
-- pip3 install virtualenv
-
- - pip3 install flask
-
- - pip install flask flask-sqlalchemy
-
-
-## run our app:
-
-  python app.py
-
-
 # To-Do-List
 ## Table of Contents:
 * [Title](#Porfolio)
@@ -37,9 +23,7 @@
 
 ## Usage
  - The application the user with a basic crud application using flask and sqllite as the database.
-
-- 
-
+ 
 
 ## Contribution 
   - Joseph Small
